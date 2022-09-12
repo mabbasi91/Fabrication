@@ -161,7 +161,7 @@ A different pattern has been also used to fabricate the nano-scale ring. Figure 
 
 <h2>  The AFM, SEM and microscopic images of some fabricated devices</h2>
 
-<p float="left">
+<p align="center">
   <img src="Figs/fig1.jpeg" width="380"  height="300"/>
   <img src="Figs/fig2.jpeg" width="380" height="300"/> 
   <img src="Figs/fig3.jpeg" width="380" height="300"/>
