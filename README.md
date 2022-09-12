@@ -103,7 +103,7 @@ The superconducting wires are shown in Figure 7.
 </p>
 
 <p align="center">
-<img src="Figs/ring-pcco.png" width="500" height="180">
+<img src="Figs/ringpcco.png" width="500" height="180">
 <br>
     <strong>Figure 8:</strong> The pictures of three different designed micron-size superconducting rings (after PLD deposition) with diameters of a) 20, b) 25 and c) 30 $\mu m$.
 </p>
