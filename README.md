@@ -162,22 +162,22 @@ A different pattern has been also used to fabricate the nano-scale ring. Figure 
 <h2>  The AFM, SEM and microscopic images of some fabricated devices</h2>
 
 <p float="left">
-  <img src="Figs/fig1.jpeg" width="280"  height="200"/>
-  <img src="Figs/fig2.jpeg" width="280" height="200"/> 
-  <img src="Figs/fig3.jpeg" width="280" height="200"/>
-  <img src="Figs/fig4.jpeg" width="280" height="200"/>
-  <img src="Figs/fig5.jpeg" width="280"  height="200"/>
-  <img src="Figs/fig6.jpeg" width="280" height="200"/> 
-  <img src="Figs/fig7.jpeg" width="280" height="200"/>
-  <img src="Figs/fig8.jpeg" width="280" height="200"/>
-  <img src="Figs/fig9.jpeg" width="280"  height="200"/>
-  <img src="Figs/fig11.jpeg" width="280" height="200"/>
-  <img src="Figs/fig14.jpeg" width="280" height="200"/>
-  <img src="Figs/fig15.jpeg" width="280" height="200"/>
-  <img src="Figs/fig16.jpeg" width="280" height="200"/>
-  <img src="Figs/fig17.jpeg" width="280" height="200"/>
-  <img src="Figs/fig18.jpeg" width="280" height="200"/>
-  <img src="Figs/fig19.jpeg" width="280" height="200"/>
-  <img src="Figs/fig20.jpeg" width="280" height="200"/>
-  <img src="Figs/fig21.jpeg" width="280" height="200"/>
+  <img src="Figs/fig1.jpeg" width="380"  height="300"/>
+  <img src="Figs/fig2.jpeg" width="380" height="300"/> 
+  <img src="Figs/fig3.jpeg" width="380" height="300"/>
+  <img src="Figs/fig4.jpeg" width="380" height="300"/>
+  <img src="Figs/fig5.jpeg" width="380"  height="300"/>
+  <img src="Figs/fig6.jpeg" width="380" height="300"/> 
+  <img src="Figs/fig7.jpeg" width="380" height="300"/>
+  <img src="Figs/fig8.jpeg" width="380" height="300"/>
+  <img src="Figs/fig9.jpeg" width="380"  height="300"/>
+  <img src="Figs/fig11.jpeg" width="380" height="300"/>
+  <img src="Figs/fig14.jpeg" width="380" height="300"/>
+  <img src="Figs/fig15.jpeg" width="380" height="300"/>
+  <img src="Figs/fig16.jpeg" width="380" height="300"/>
+  <img src="Figs/fig17.jpeg" width="380" height="300"/>
+  <img src="Figs/fig18.jpeg" width="380" height="300"/>
+  <img src="Figs/fig19.jpeg" width="380" height="300"/>
+  <img src="Figs/fig20.jpeg" width="380" height="300"/>
+  <img src="Figs/fig21.jpeg" width="380" height="300"/>
 </p>
