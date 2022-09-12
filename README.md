@@ -23,7 +23,7 @@ The photolitography is performed after a careful analysis of the best exposure t
 
 ### 2. Wet etching
 
-In wet etching method, the acid is used to etch the parts of the sample that are not cover by photoresist. The choice of acid depends on the epitaxial layer. For some materials, high-corrosive acids like [$HF$](https://en.wikipedia.org/wiki/Hydrofluoric_acid "HF") are used, while Nitric Acid [$HNO_{3}$](https://en.wikipedia.org/wiki/Nitric_acid "HNO3") could be sufficient for others. As wet etching exposes the epitaxial layer to harmful chemicals, it is not recommended in most cases. Along with other methods such as Fourier transforms from X-ray diffraction or AFM, wet etching after photolitography can be used for measuring layer thickness using [profilometer](https://en.wikipedia.org/wiki/Profilometer "profilometer").
+In wet etching method, the acid is used to etch the parts of the sample that are not cover by photoresist. The choice of acid depends on the epitaxial layer. For some materials, high-corrosive acids like [HF](https://en.wikipedia.org/wiki/Hydrofluoric_acid "HF") are used, while Nitric Acid [HNO3](https://en.wikipedia.org/wiki/Nitric_acid "HNO3") could be sufficient for others. As wet etching exposes the epitaxial layer to harmful chemicals, it is not recommended in most cases. Along with other methods such as Fourier transforms from X-ray diffraction or AFM, wet etching after photolitography can be used for measuring layer thickness using [profilometer](https://en.wikipedia.org/wiki/Profilometer "profilometer").
 
 ---
 
