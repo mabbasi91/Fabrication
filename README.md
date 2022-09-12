@@ -23,7 +23,7 @@ The photolitography is performed after a careful analysis of the best exposure t
 
 ### 2. Wet etching
 
-In wet etching method, the acid is used to etch the parts of the sample that are not cover by photoresist. The choice of acid depends on the epitaxial layer. For some materials, high-corrosive acids like [$HF$](https://en.wikipedia.org/wiki/Hydrofluoric_acid "HF") are used, while Nitric Acid [$HNO_{3}$](https://en.wikipedia.org/wiki/Nitric_acid "HNO3") could be sufficient for others. As wet etching exposes the epitaxial layer to harmful chemicals, it is not recommended in most cases. Along with other methods such as Fourier transforms from X-ray diffraction or AFM, wet etching after photolitography can be used for measuring layer thickness using [profilometer](https://en.wikipedia.org/wiki/Profilometer "profilometer").
+In wet etching method, the acid is used to etch the parts of the sample that are not cover by photoresist. The choice of acid depends on the epitaxial layer. For some materials, high-corrosive acids like [HF](https://en.wikipedia.org/wiki/Hydrofluoric_acid "HF") are used, while Nitric Acid [HNO3](https://en.wikipedia.org/wiki/Nitric_acid "HNO3") could be sufficient for others. As wet etching exposes the epitaxial layer to harmful chemicals, it is not recommended in most cases. Along with other methods such as Fourier transforms from X-ray diffraction or AFM, wet etching after photolitography can be used for measuring layer thickness using [profilometer](https://en.wikipedia.org/wiki/Profilometer "profilometer").
 
 ---
 
@@ -105,7 +105,7 @@ The superconducting wires are shown in Figure 7.
 <p align="center">
 <img src="Figs/ringpcco.png" width="500" height="180">
 <br>
-    <strong>Figure 8:</strong> The pictures of three different designed micron-size superconducting rings (after PLD deposition) with diameters of a) 20, b) 25 and c) 30 $\mu m$.
+    <strong>Figure 8:</strong> The pictures of three different designed micron-size superconducting rings (after PLD deposition) with diameters of a) 20, b) 25 and c) 30 micron.
 </p>
 
 <p align="center">
@@ -157,4 +157,27 @@ A different pattern has been also used to fabricate the nano-scale ring. Figure 
 <img src="Figs/third-ring-SEM.png" width="500" height="250">
 <br>
     <strong>Figure 14:</strong> SEM images of the nanorings on a Si substrate
+</p>
+
+<h2>  The AFM, SEM and microscopic images of some fabricated devices</h2>
+
+<p float="left">
+  <img src="Figs/fig1.jpeg" width="280"  height="200"/>
+  <img src="Figs/fig2.jpeg" width="280" height="200"/> 
+  <img src="Figs/fig3.jpeg" width="280" height="200"/>
+  <img src="Figs/fig4.jpeg" width="280" height="200"/>
+  <img src="Figs/fig5.jpeg" width="280"  height="200"/>
+  <img src="Figs/fig6.jpeg" width="280" height="200"/> 
+  <img src="Figs/fig7.jpeg" width="280" height="200"/>
+  <img src="Figs/fig8.jpeg" width="280" height="200"/>
+  <img src="Figs/fig9.jpeg" width="280"  height="200"/>
+  <img src="Figs/fig11.jpeg" width="280" height="200"/>
+  <img src="Figs/fig14.jpeg" width="280" height="200"/>
+  <img src="Figs/fig15.jpeg" width="280" height="200"/>
+  <img src="Figs/fig16.jpeg" width="280" height="200"/>
+  <img src="Figs/fig17.jpeg" width="280" height="200"/>
+  <img src="Figs/fig18.jpeg" width="280" height="200"/>
+  <img src="Figs/fig19.jpeg" width="280" height="200"/>
+  <img src="Figs/fig20.jpeg" width="280" height="200"/>
+  <img src="Figs/fig21.jpeg" width="280" height="200"/>
 </p>
